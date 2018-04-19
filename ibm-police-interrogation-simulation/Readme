@@ -1,0 +1,5 @@
+This is a copy of the private repository of the police interrogation simulation.
+
+To run, ensure you have the required python dependencies and run
+
+python3 manage.py install
